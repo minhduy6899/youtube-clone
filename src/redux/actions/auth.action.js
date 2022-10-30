@@ -1,6 +1,6 @@
 import firebase from 'firebase/app'
 
-import auth from '../../firebase'
+import auth from '../../../src/firebase'
 import {
    LOAD_PROFILE,
    LOGIN_FAIL,
